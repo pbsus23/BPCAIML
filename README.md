@@ -81,32 +81,108 @@ Proportion of bar coupons accepted by those went more : 18.65%
 
 Proportion of bar coupons accepted by drivers who go to a bar more than once a month and are over the age of 25 : 38.61%
 
-<img src="assignment_5_1_starter/images/Img04.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img04.png" alt="Figure 1.4" width="75%">
 
 **(d) Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.**
 
 Proportion of bar coupons accepted by drivers who go to a bar more than than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry : 71.43%
 
-<img src="assignment_5_1_starter/images/Img05.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img05.png" alt="Figure 1.5" width="75%">
 
 Proportion of bar coupons accepted by other drivers group : 67.1%
 
-<img src="assignment_5_1_starter/images/Img06.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img06.png" alt="Figure 1.6" width="75%">
 
 **(e) Acceptance rates between those drivers who - go to bars more than once a month, had passengers that were not a kid, and were not widowed**
 
 Proportion of bar coupons accepted by this drivers group : 71.43%
 
-<img src="assignment_5_1_starter/images/Img07.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img07.png" alt="Figure 1.7" width="75%">
 
 **(f) Acceptance rates between those drivers who - go to bars more than once a month and are under the age of 30**
 
 Proportion of bar coupons accepted by this drivers group : 71.95%
 
-<img src="assignment_5_1_starter/images/Img08.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img08.png" alt="Figure 1.8" width="75%">
 
 **(g) Acceptance rates between those drivers who - go to cheap restaurants more than 4 times a month and income is less than 50K**
 
 Proportion of bar coupons accepted by this drivers group : 45.65%
 
-<img src="assignment_5_1_starter/images/Img09.png" alt="Figure 1.1" width="75%">
+<img src="assignment_5_1_starter/images/Img09.png" alt="Figure 1.9" width="75%">
+
+
+### (IV) Independent Analysis
+
+I have selected Coffee House coupon for independent analysis.
+
+**(a) Load coffee house coupons in data frame**
+
+As a first step, i have loaded coffee house coupons in the "coffeecoupon" data frame
+
+**(b) Find out what proportion of coffee house coupons were accepted?**
+
+As a first step, i have loaded coffee house coupons in the "coffeecoupon" data frameProportion of Coffee coupons accepted out of total coupons: 15.68
+
+<img src="assignment_5_1_starter/images/Img10.png" alt="Figure 1.10" width="75%">
+
+
+**(c) Some initial analysis of coffee house coupons**
+
+Bar plot for Coffee coupon with passenger to visualize distribution
+
+<img src="assignment_5_1_starter/images/Img11.png" alt="Figure 1.11" width="75%">
+
+**Inference -**
+Those go to Coffee House with friends and partner have higher rate of coupons acceptance in place of those go with kids or alone
+
+**(d) Bar plot for Coffee coupon classified with to visualize** 
+
+<img src="assignment_5_1_starter/images/Img12.png" alt="Figure 1.12" width="75%">
+
+**Inference -**
+Those go to Coffee House in morning time has higher acceptance rate. After that those go to evening hours. Surprisingly those go with friends have higer acceptance rate in night hours.
+
+**(e) Bar plot for Coffee coupon classified with Coffee house visit to visualize** 
+
+<img src="assignment_5_1_starter/images/Img13.png" alt="Figure 1.13" width="75%">
+
+**Inference -**
+This plot very clearly shows that those go with partner and more frequently have Highest coupon acceptanve rate. As red bar represents very frequency is greater than 8 , this group has highest rate of coupon acceptance.
+
+**(f) Violin plot for Coffee coupon with gender and time as hue to visualize** 
+
+<img src="assignment_5_1_starter/images/Img14.png" alt="Figure 1.14" width="75%">
+
+**Inference -**
+This violin plot is showing that not much difference in coupon acceptance rate based on gender. But one trend is visible that acceptance arte is low those go in night hours.
+
+**(g) Violin plot for Coffee coupon with gender and number of visits as hue to visualize** 
+
+<img src="assignment_5_1_starter/images/Img15.png" alt="Figure 1.15" width="75%">
+
+**Inference -**
+This plot vshows that those acceptance rate is bit higher among female even those go less frequently.
+
+**(h) Box plot for Coffee coupon with martial status and gender as hue to visualize** 
+
+<img src="assignment_5_1_starter/images/Img16.png" alt="Figure 1.16" width="75%">
+
+**Inference -**
+This plot vshows that those acceptance rate is high in the group have martial status as Single, Married or Unmarried partner. Specially among females its High in unmarried partners.
+
+**(i) Box plot for Coffee coupon with martial status and number of visits as hue to visualize** 
+
+<img src="assignment_5_1_starter/images/Img17.png" alt="Figure 1.17" width="75%">
+
+**Inference -**
+This plot vshows that those no major impact on acceptance rate between male and female based on frequncy of going to coffee house. Both genders have almost same acceptance.
+
+**Independent Analysis Hypothesis**
+
+Based on above analysis of the Coffee House coupons and multiple visualization, my inference for hypothesis is as below:
+1) Acceptance rate highly depends on companion type. It's highest among friends and partners.
+2) Acceptance rate also has significant impact baseed on time of the visit to coffee house. Generally it seems athat it is higher for morning and evening hours.
+3) Acceptance rate is also higher among the people those go more to coffee house. It's Highest with frequent visitors as partners.
+4) There is not much difference based on gender.
+5) There are some impact based on martial status and it's higher among single, married partners and unmarried partners.
