@@ -60,36 +60,53 @@ I have used below steps and performed some cleanup and transformation on data se
 <img src="assignment_5_1_starter/images/Img01.png" alt="Figure 1.1" width="75%">
 
 ### (III) Bar Coupon Analysis
- I have performed analysis on the Bar Coupons as mentioned in the problem and below are the key observations:
+
+I have performed analysis on the Bar Coupons as mentioned in the problem and below are the key observations:
 
 **(a) What proportion of bar coupons were accepted?**
+
 Proportion of bar coupons accepted out of total bar coupons: 41.19
-<img src="assignment_5_1_starter/images/Img02.png" alt="Figure 1.1" width="75%">
+
+<img src="assignment_5_1_starter/images/Img02.png" alt="Figure 1.2" width="75%">
 
 **(b) Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more**
+
 Proportion of bar coupons accepted by those went to a bar 3 or fewer times : 81.35%
+
 Proportion of bar coupons accepted by those went more : 18.65%
-<img src="assignment_5_1_starter/images/Img03.png" alt="Figure 1.1" width="75%">
+
+<img src="assignment_5_1_starter/images/Img03.png" alt="Figure 1.3" width="75%">
 
 **(c) Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.**
+
 Proportion of bar coupons accepted by drivers who go to a bar more than once a month and are over the age of 25 : 38.61%
+
 <img src="assignment_5_1_starter/images/Img04.png" alt="Figure 1.1" width="75%">
 
 **(d) Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.**
+
 Proportion of bar coupons accepted by drivers who go to a bar more than than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry : 71.43%
+
 <img src="assignment_5_1_starter/images/Img05.png" alt="Figure 1.1" width="75%">
 
 Proportion of bar coupons accepted by other drivers group : 67.1%
+
 <img src="assignment_5_1_starter/images/Img06.png" alt="Figure 1.1" width="75%">
 
 **(e) Acceptance rates between those drivers who - go to bars more than once a month, had passengers that were not a kid, and were not widowed**
+
 Proportion of bar coupons accepted by this drivers group : 71.43%
+
 <img src="assignment_5_1_starter/images/Img07.png" alt="Figure 1.1" width="75%">
 
 **(f) Acceptance rates between those drivers who - go to bars more than once a month and are under the age of 30**
+
 Proportion of bar coupons accepted by this drivers group : 71.95%
+
 <img src="assignment_5_1_starter/images/Img08.png" alt="Figure 1.1" width="75%">
 
 **(g) Acceptance rates between those drivers who - go to cheap restaurants more than 4 times a month and income is less than 50K**
+
 Proportion of bar coupons accepted by this drivers group : 45.65%
+
 <img src="assignment_5_1_starter/images/Img09.png" alt="Figure 1.1" width="75%">
